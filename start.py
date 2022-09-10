@@ -3,7 +3,7 @@
 import re
 import sys
 import json
-from os import path
+import os
 import requests
 
 
@@ -40,7 +40,7 @@ def main():
     if req.status_code == 200:
         res = req.json()['data']['question']
         file_path = 'src/' + slug + '.sql'
-        if not path.exists(file_path):
+        if not os.path.exists(file_path):
             with open('README.md', mode='a', encoding='utf-8') as f:
                 f.write(
                     f'- [{res["questionFrontendId"]}. {res["translatedTitle"]}]({file_path}) <{url}>\n')
@@ -52,6 +52,8 @@ def main():
                     '-- ' + url,
                     '\n'
                 ])
+
+                os.system(f'code {file_path}')
         else:
             print('File already exists: ' + file_path)
     else:
