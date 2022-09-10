@@ -12,7 +12,7 @@ def main():
         print("Usage: python3 start.py LeetCode-URL")
         sys.exit(1)
 
-    url = sys.argv[1]
+    url = sys.argv[1].split('?')[0]
 
     url_match = re.match(
         r'^https://leetcode.cn/problems/([\w|-]+)/?$', url)
