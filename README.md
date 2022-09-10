@@ -10,3 +10,4 @@ LeetCode SQL 练习记录。
 - [1988. 找出每所学校的最低分数要求](src/find-cutoff-score-for-each-school.sql) <https://leetcode.cn/problems/find-cutoff-score-for-each-school/>
 - [1549. 每件商品的最新订单](src/the-most-recent-orders-for-each-product.sql) <https://leetcode.cn/problems/the-most-recent-orders-for-each-product/>
 - [1321. 餐馆营业额变化增长](src/restaurant-growth.sql) <https://leetcode.cn/problems/restaurant-growth/>
+- [1045. 买下所有产品的客户](src/customers-who-bought-all-products.sql) <https://leetcode.cn/problems/customers-who-bought-all-products/>
