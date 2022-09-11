@@ -12,3 +12,4 @@ LeetCode SQL 练习记录。
 - [1321. 餐馆营业额变化增长](src/restaurant-growth.sql) <https://leetcode.cn/problems/restaurant-growth/>
 - [1045. 买下所有产品的客户](src/customers-who-bought-all-products.sql) <https://leetcode.cn/problems/customers-who-bought-all-products/>
 - [1341. 电影评分](src/movie-rating.sql) <https://leetcode.cn/problems/movie-rating/>
+- [1867. 最大数量高于平均水平的订单](src/orders-with-maximum-quantity-above-average.sql) <https://leetcode.cn/problems/orders-with-maximum-quantity-above-average/>
