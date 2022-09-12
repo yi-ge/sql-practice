@@ -16,3 +16,4 @@ LeetCode SQL 练习记录。
 - [550. 游戏玩法分析 IV](src/game-play-analysis-iv.sql) <https://leetcode.cn/problems/game-play-analysis-iv/>
 - [262. 行程和用户](src/trips-and-users.sql) <https://leetcode.cn/problems/trips-and-users/>
 - [1303. 求团队人数](src/find-the-team-size.sql) <https://leetcode.cn/problems/find-the-team-size/>
+- [1308. 不同性别每日分数总计](src/running-total-for-different-genders.sql) <https://leetcode.cn/problems/running-total-for-different-genders/>
