@@ -13,3 +13,4 @@ LeetCode SQL 练习记录。
 - [1045. 买下所有产品的客户](src/customers-who-bought-all-products.sql) <https://leetcode.cn/problems/customers-who-bought-all-products/>
 - [1341. 电影评分](src/movie-rating.sql) <https://leetcode.cn/problems/movie-rating/>
 - [1867. 最大数量高于平均水平的订单](src/orders-with-maximum-quantity-above-average.sql) <https://leetcode.cn/problems/orders-with-maximum-quantity-above-average/>
+- [550. 游戏玩法分析 IV](src/game-play-analysis-iv.sql) <https://leetcode.cn/problems/game-play-analysis-iv/>
