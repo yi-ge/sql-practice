@@ -14,3 +14,4 @@ LeetCode SQL 练习记录。
 - [1341. 电影评分](src/movie-rating.sql) <https://leetcode.cn/problems/movie-rating/>
 - [1867. 最大数量高于平均水平的订单](src/orders-with-maximum-quantity-above-average.sql) <https://leetcode.cn/problems/orders-with-maximum-quantity-above-average/>
 - [550. 游戏玩法分析 IV](src/game-play-analysis-iv.sql) <https://leetcode.cn/problems/game-play-analysis-iv/>
+- [262. 行程和用户](src/trips-and-users.sql) <https://leetcode.cn/problems/trips-and-users/>
