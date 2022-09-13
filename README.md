@@ -20,3 +20,4 @@ LeetCode SQL 练习记录。
 - [1501. 可以放心投资的国家](src/countries-you-can-safely-invest-in.sql) <https://leetcode.cn/problems/countries-you-can-safely-invest-in/>
 - [1077. 项目员工 III](src/project-employees-iii.sql) <https://leetcode.cn/problems/project-employees-iii/>
 - [1285. 找到连续区间的开始和结束数字](src/find-the-start-and-end-number-of-continuous-ranges.sql) <https://leetcode.cn/problems/find-the-start-and-end-number-of-continuous-ranges/>
+- [1596. 每位顾客最经常订购的商品](src/the-most-frequently-ordered-products-for-each-customer.sql) <https://leetcode.cn/problems/the-most-frequently-ordered-products-for-each-customer/>
