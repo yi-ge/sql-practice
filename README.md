@@ -19,3 +19,4 @@ LeetCode SQL 练习记录。
 - [1308. 不同性别每日分数总计](src/running-total-for-different-genders.sql) <https://leetcode.cn/problems/running-total-for-different-genders/>
 - [1501. 可以放心投资的国家](src/countries-you-can-safely-invest-in.sql) <https://leetcode.cn/problems/countries-you-can-safely-invest-in/>
 - [1077. 项目员工 III](src/project-employees-iii.sql) <https://leetcode.cn/problems/project-employees-iii/>
+- [1285. 找到连续区间的开始和结束数字](src/find-the-start-and-end-number-of-continuous-ranges.sql) <https://leetcode.cn/problems/find-the-start-and-end-number-of-continuous-ranges/>
