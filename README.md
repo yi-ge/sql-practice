@@ -18,3 +18,4 @@ LeetCode SQL 练习记录。
 - [1303. 求团队人数](src/find-the-team-size.sql) <https://leetcode.cn/problems/find-the-team-size/>
 - [1308. 不同性别每日分数总计](src/running-total-for-different-genders.sql) <https://leetcode.cn/problems/running-total-for-different-genders/>
 - [1501. 可以放心投资的国家](src/countries-you-can-safely-invest-in.sql) <https://leetcode.cn/problems/countries-you-can-safely-invest-in/>
+- [1077. 项目员工 III](src/project-employees-iii.sql) <https://leetcode.cn/problems/project-employees-iii/>
