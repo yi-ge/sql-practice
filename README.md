@@ -23,3 +23,4 @@ LeetCode SQL 练习记录。
 - [1596. 每位顾客最经常订购的商品](src/the-most-frequently-ordered-products-for-each-customer.sql) <https://leetcode.cn/problems/the-most-frequently-ordered-products-for-each-customer/>
 - [178. 分数排名](src/rank-scores.sql) <https://leetcode.cn/problems/rank-scores/>
 - [177. 第N高的薪水](src/nth-highest-salary.sql) <https://leetcode.cn/problems/nth-highest-salary/>
+- [1951. 查询具有最多共同关注者的所有两两结对组](src/all-the-pairs-with-the-maximum-number-of-common-followers.sql) <https://leetcode.cn/problems/all-the-pairs-with-the-maximum-number-of-common-followers/>
