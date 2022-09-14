@@ -16,8 +16,8 @@ FROM (
     FROM Orders,
       Customers
     WHERE Customers.customer_id = Orders.customer_id
-  )
+  ) a
 WHERE row_id < 4
 ORDER BY customer_name,
-  Orders.customer_id,
+  customer_id,
   order_date DESC

@@ -27,3 +27,4 @@ LeetCode SQL 练习记录。
 - [1709. 访问日期之间最大的空档期](src/biggest-window-between-visits.sql) <https://leetcode.cn/problems/biggest-window-between-visits/>
 - [1949. 坚定的友谊](src/strong-friendship.sql) <https://leetcode.cn/problems/strong-friendship/>
 - [1532. 最近的三笔订单](src/the-most-recent-three-orders.sql) <https://leetcode.cn/problems/the-most-recent-three-orders/>
+- [1126. 查询活跃业务](src/active-businesses.sql) <https://leetcode.cn/problems/active-businesses/>
