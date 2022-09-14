@@ -29,3 +29,4 @@ LeetCode SQL 练习记录。
 - [1532. 最近的三笔订单](src/the-most-recent-three-orders.sql) <https://leetcode.cn/problems/the-most-recent-three-orders/>
 - [1126. 查询活跃业务](src/active-businesses.sql) <https://leetcode.cn/problems/active-businesses/>
 - [1831. 每天的最大交易](src/maximum-transaction-each-day.sql) <https://leetcode.cn/problems/maximum-transaction-each-day/>
+- [1613. 找到遗失的ID](src/find-the-missing-ids.sql) <https://leetcode.cn/problems/find-the-missing-ids/>
