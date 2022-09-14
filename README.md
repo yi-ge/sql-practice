@@ -24,3 +24,4 @@ LeetCode SQL 练习记录。
 - [178. 分数排名](src/rank-scores.sql) <https://leetcode.cn/problems/rank-scores/>
 - [177. 第N高的薪水](src/nth-highest-salary.sql) <https://leetcode.cn/problems/nth-highest-salary/>
 - [1951. 查询具有最多共同关注者的所有两两结对组](src/all-the-pairs-with-the-maximum-number-of-common-followers.sql) <https://leetcode.cn/problems/all-the-pairs-with-the-maximum-number-of-common-followers/>
+- [1709. 访问日期之间最大的空档期](src/biggest-window-between-visits.sql) <https://leetcode.cn/problems/biggest-window-between-visits/>
