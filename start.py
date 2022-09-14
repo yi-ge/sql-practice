@@ -7,6 +7,11 @@ import os
 import requests
 
 
+def cmdExists(cmd):
+    command = f'cmd /c "(help {cmd} > nul || exit 0) && where {cmd} > nul 2> nul"' if os.name == 'nt' else f'command -v {cmd}'
+    return os.system(command) == 0
+
+
 def main():
     if len(sys.argv) < 2:
         print("Usage: python3 start.py LeetCode-URL")
@@ -53,7 +58,10 @@ def main():
                     '\n'
                 ])
 
-                os.system(f'code {file_path}')
+                if cmdExists('code-insiders'):
+                    os.system(f'code-insiders {file_path}')
+                else:
+                    os.system(f'code {file_path}')
         else:
             print('File already exists: ' + file_path)
     else:

@@ -22,3 +22,4 @@ LeetCode SQL 练习记录。
 - [1285. 找到连续区间的开始和结束数字](src/find-the-start-and-end-number-of-continuous-ranges.sql) <https://leetcode.cn/problems/find-the-start-and-end-number-of-continuous-ranges/>
 - [1596. 每位顾客最经常订购的商品](src/the-most-frequently-ordered-products-for-each-customer.sql) <https://leetcode.cn/problems/the-most-frequently-ordered-products-for-each-customer/>
 - [178. 分数排名](src/rank-scores.sql) <https://leetcode.cn/problems/rank-scores/>
+- [177. 第N高的薪水](src/nth-highest-salary.sql) <https://leetcode.cn/problems/nth-highest-salary/>
