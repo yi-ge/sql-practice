@@ -33,3 +33,4 @@ LeetCode SQL 练习记录。
 - [1270. 向公司CEO汇报工作的所有人](src/all-people-report-to-the-given-manager.sql) <https://leetcode.cn/problems/all-people-report-to-the-given-manager/>
 - [1369. 获取最近第二次的活动](src/get-the-second-most-recent-activity.sql) <https://leetcode.cn/problems/get-the-second-most-recent-activity/>
 - [1454. 活跃用户](src/active-users.sql) <https://leetcode.cn/problems/active-users/>
+- [1412. 查找成绩处于中游的学生](src/find-the-quiet-students-in-all-exams.sql) <https://leetcode.cn/problems/find-the-quiet-students-in-all-exams/>
