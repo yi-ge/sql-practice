@@ -38,3 +38,4 @@ LeetCode SQL 练习记录。
 - [185. 部门工资前三高的所有员工](src/department-top-three-salaries.sql) <https://leetcode.cn/problems/department-top-three-salaries/>
 - [1767. 寻找没有被执行的任务对](src/find-the-subtasks-that-did-not-execute.sql) <https://leetcode.cn/problems/find-the-subtasks-that-did-not-execute>
 - [1384. 按年度列出销售总额](src/total-sales-amount-by-year.sql) <https://leetcode.cn/problems/total-sales-amount-by-year/>
+- [569. 员工薪水中位数](src/median-employee-salary.sql) <https://leetcode.cn/problems/median-employee-salary/>
