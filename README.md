@@ -34,3 +34,4 @@ LeetCode SQL 练习记录。
 - [1369. 获取最近第二次的活动](src/get-the-second-most-recent-activity.sql) <https://leetcode.cn/problems/get-the-second-most-recent-activity/>
 - [1454. 活跃用户](src/active-users.sql) <https://leetcode.cn/problems/active-users/>
 - [1412. 查找成绩处于中游的学生](src/find-the-quiet-students-in-all-exams.sql) <https://leetcode.cn/problems/find-the-quiet-students-in-all-exams/>
+- [1972. 同一天的第一个电话和最后一个电话](src/first-and-last-call-on-the-same-day.sql) <https://leetcode.cn/problems/first-and-last-call-on-the-same-day/>
