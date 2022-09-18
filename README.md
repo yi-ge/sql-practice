@@ -40,3 +40,4 @@ LeetCode SQL 练习记录。
 - [1384. 按年度列出销售总额](src/total-sales-amount-by-year.sql) <https://leetcode.cn/problems/total-sales-amount-by-year/>
 - [569. 员工薪水中位数](src/median-employee-salary.sql) <https://leetcode.cn/problems/median-employee-salary/>
 - [571. 给定数字的频率查询中位数](src/find-median-given-frequency-of-numbers.sql) <https://leetcode.cn/problems/find-median-given-frequency-of-numbers/>
+- [1225. 报告系统状态的连续日期](src/report-contiguous-dates.sql) <https://leetcode.cn/problems/report-contiguous-dates/>
