@@ -2,14 +2,14 @@
 -- https://leetcode.cn/problems/find-median-given-frequency-of-numbers/
 -- 学习自：https://leetcode.cn/problems/find-median-given-frequency-of-numbers/solution/sum-over-order-by-by-fugue-s/
 -- 解题思路：当某一数字的 正序和逆序累计 均大于 整个序列的数字个数的一半 时即为中位数。
-select avg(number) median
+select avg(num) median
 from (
-    select number,
+    select num,
       sum(frequency) over(
-        order by number
+        order by num
       ) asc_accumu,
       sum(frequency) over(
-        order by number desc
+        order by num desc
       ) desc_accumu
     from numbers
   ) t1,
