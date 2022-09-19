@@ -42,3 +42,4 @@ LeetCode SQL 练习记录。
 - [571. 给定数字的频率查询中位数](src/find-median-given-frequency-of-numbers.sql) <https://leetcode.cn/problems/find-median-given-frequency-of-numbers/>
 - [1225. 报告系统状态的连续日期](src/report-contiguous-dates.sql) <https://leetcode.cn/problems/report-contiguous-dates/>
 - [618. 学生地理信息报告](src/students-report-by-geography.sql) <https://leetcode.cn/problems/students-report-by-geography/>
+- [2010. 职员招聘人数 II](src/the-number-of-seniors-and-juniors-to-join-the-company-ii.sql) <https://leetcode.cn/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii/>
